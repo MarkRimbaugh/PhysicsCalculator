@@ -157,8 +157,6 @@ void GetEnergy()
 
 void GetSpeed()
 {
-    // = distanceTravelled / time
-
     bool inputConfirmed = false;
     bool isNumber = false;
     int speed = 0;
